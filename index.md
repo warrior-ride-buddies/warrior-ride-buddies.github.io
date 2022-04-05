@@ -7,10 +7,17 @@
 * [Contact Us](#contact-us)
 
 ## Overview
-Summarizes what the system does and what makes it special and different from other related applications.
+The goal of Warrior Ride Buddies is to connect UH Manoa students with similar commutes, enabling them to organize car-pools. 
+This application will help students save money on gas and parking.
 
 ## User Guide
-Provide at least one screen shot of every page. This section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+- Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
+- Categorize yourself as a driver, rider, or both if you’re willing.
+- Drivers must include the following information about their car: year, make/model, and license plate.
+- Rider’s will have a recommended gas-money contribution for their drivers depending on their distance from campus.
+- Adjust your desired arrival times for each day of the week.
+- Once your profile is completed, it will be visible on the app’s home page, which is a map populated with other commuters shown in their general starting locations. Users can interact with the map by clicking on other’s profiles and filtering them by various categories.
+- Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
 ## Community Feedback
 Provides information obtained from users about the system.
