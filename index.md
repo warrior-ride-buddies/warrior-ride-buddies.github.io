@@ -1,3 +1,4 @@
+# Warrior Ride Buddies
 ## Table of contents
 
 * [Overview](#overview)
@@ -37,5 +38,9 @@ How to download, install, and run the system locally, as well as how to deploy i
 Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
 
 ## Contact Us
-Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
-
+Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
+* [Kobey Arai](https://kobeyarai808.github.io/)
+* [Alyssia Chen](https://alyssia-chen.github.io/)
+* [William Liang](https://william-liang808.github.io/)
+* [Yong-Sung Masuda](https://yongsungm.github.io/)
+* [Scott Yuk](https://scott-yuk.github.io/)
