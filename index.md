@@ -44,6 +44,8 @@ Here are the developers of this application. If you want to get in contact with 
 * [Yong-Sung Masuda](https://yongsungm.github.io/)
 * [Scott Yuk](https://scott-yuk.github.io/)
 
+Here is our [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr_WfwH-5iD-kGBiF5fv1-mwz5sEc/edit?usp=sharing)
+
 ## Future ideas to implement
 * Deal with Unsolicited Interactions (Blocking, etc.)
 * Allow group chats
