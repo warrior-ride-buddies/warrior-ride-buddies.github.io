@@ -3,8 +3,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 * [Contact Us](#contact-us)
 
 ## Overview
@@ -20,7 +19,7 @@ This application will help students save money on gas and parking.
 - Once your profile is completed, it will be visible on the app’s home page, which is a map populated with other commuters shown in their general starting locations. Users can interact with the map by clicking on other’s profiles and filtering them by various categories.
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
-### Screenshots of mockups
+### Screenshots of Mockups
 <img src="images/LandingPage.png">
 <img src="images/HomePage.png">
 <img src="images/EditProfilePage.png">
@@ -29,7 +28,7 @@ This application will help students save money on gas and parking.
 <img src="images/ConversationPage.png">
 <img src="images/AdminPage.png">
 
-## Development history
+## Development History
 ### Milestone #1:
 For this milestone, our teammates dedicated around a week and half. In this time we:
 * Brainstormed what we wanted this application to do.
