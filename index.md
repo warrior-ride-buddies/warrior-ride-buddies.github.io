@@ -21,12 +21,13 @@ This application will help students save money on gas and parking.
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
 ### Screenshots of mockups
-<img src="images/ConversationPage.png">
-<img src="images/HomePage.png">
-<img src="images/InboxPage.png">
 <img src="images/LandingPage.png">
-<img src="images/LoginRegisterDropdown.png">
+<img src="images/HomePage.png">
+<img src="images/EditProfilePage.png">
 <img src="images/ProfilePage.jpeg">
+<img src="images/InboxPage.png">
+<img src="images/ConversationPage.png">
+<img src="images/AdminPage.png">
 
 ## Community Feedback
 Provides information obtained from users about the system.
