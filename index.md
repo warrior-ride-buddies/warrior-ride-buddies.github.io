@@ -24,7 +24,7 @@ This application will help students save money on gas and parking.
 <img src="images/LandingPage.png">
 <img src="images/HomePage.png">
 <img src="images/EditProfilePage.png">
-<img src="images/ProfilePage.jpeg">
+<img src="images/ProfilePage.png">
 <img src="images/InboxPage.png">
 <img src="images/ConversationPage.png">
 <img src="images/AdminPage.png">
