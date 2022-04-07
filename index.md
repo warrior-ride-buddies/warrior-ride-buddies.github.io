@@ -43,3 +43,10 @@ Here are the developers of this application. If you want to get in contact with 
 * [William Liang](https://william-liang808.github.io/)
 * [Yong-Sung Masuda](https://yongsungm.github.io/)
 * [Scott Yuk](https://scott-yuk.github.io/)
+
+## Future ideas to implement
+* Deal with Unsolicited Interactions (Blocking, etc.)
+* Allow group chats
+* Convert Web app to React Native
+* Provided a recommended tip/gratuity
+* Allow users to go from UH to Home
