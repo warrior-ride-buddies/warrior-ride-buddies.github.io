@@ -29,14 +29,11 @@ This application will help students save money on gas and parking.
 <img src="images/ConversationPage.png">
 <img src="images/AdminPage.png">
 
-## Community Feedback
-Provides information obtained from users about the system.
-
-## Developer Guide
-How to download, install, and run the system locally, as well as how to deploy it.
-
 ## Development history
-Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
+### Milestone #1:
+* Brainstormed what we wanted this application to do.
+* Created mockup pages of what the application should look like and what functionality the application will have.
+* Created issues and came up with future "quality of life" updates to be done to the application in the future.
 
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
