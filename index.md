@@ -10,6 +10,8 @@
 The goal of Warrior Ride Buddies is to connect UH Manoa students with similar commutes, enabling them to organize car-pools. 
 This application will help students save money on gas and parking.
 
+Here is our [Project Board](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/1)
+
 ## User Guide
 - Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
 - Categorize yourself as a driver, rider, or both if you’re willing.
