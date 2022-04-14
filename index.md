@@ -21,22 +21,30 @@ Here is our [Project Board](https://github.com/warrior-ride-buddies/warrior-ride
 - Once your profile is completed, it will be visible on the app’s home page, which is a map populated with other commuters shown in their general starting locations. Users can interact with the map by clicking on other’s profiles and filtering them by various categories.
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
+### Deployment
+Here is our [deployed app](http://188.166.83.198/#/)
+
 ### Screenshots of Mockups
 <img src="images/LandingPage.png">
 <img src="images/HomePage.png">
-<img src="images/EditProfilePage.png">
 <img src="images/ProfilePage.png">
+<img src="images/EditProfilePage.png">
 <img src="images/InboxPage.png">
 <img src="images/ConversationPage.png">
 <img src="images/AdminPage.png">
 
 ## Development History
 ### Milestone #1:
+
+[M1 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/1)
 For this milestone, our teammates dedicated around a week and half. In this time we:
 * Brainstormed what we wanted this application to do.
 * Created mockup pages of what the application should look like and what functionality the application will have.
 * Created issues and came up with future "quality of life" updates to be done to the application in the future.
 * Divided the issues up so that each member has at least 2 issues.
+
+### Milestone #2:
+[M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/2)
 
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
