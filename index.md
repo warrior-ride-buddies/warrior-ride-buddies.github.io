@@ -35,8 +35,8 @@ Here is our [deployed app](http://188.166.83.198/#/)
 
 ## Development History
 ### Milestone #1:
-
 [M1 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/1)
+
 For this milestone, our teammates dedicated around a week and half. In this time we:
 * Brainstormed what we wanted this application to do.
 * Created mockup pages of what the application should look like and what functionality the application will have.
