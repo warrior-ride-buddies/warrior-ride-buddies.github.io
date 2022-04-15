@@ -30,7 +30,7 @@ Here is our [deployed app](http://188.166.83.198/#/).
 <img src="images/ProfilePage.png">
 <img src="images/EditProfilePage.png">
 <img src="images/InboxPage.png">
-<img src="images/ConversationPage.png">
+<img src="images/MessagesPage.png">
 <img src="images/AdminPage.png">
 
 ## Development History
