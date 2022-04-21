@@ -12,6 +12,8 @@ This application will help students save money on gas and parking.
 
 Here is the link to our [organization](https://github.com/warrior-ride-buddies) and the [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr_WfwH-5iD-kGBiF5fv1-mwz5sEc/edit?usp=sharing) we created at the beginning of this project.
 
+![ci-badge](https://github.com/warrior-ride-buddies/warrior-ride-buddies/workflows/ci-warrior-ride-buddies/badge.svg)
+
 ## User Guide
 - Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
 - Categorize yourself as a driver, rider, or both if you’re willing.
