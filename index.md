@@ -1,4 +1,7 @@
 # Warrior Ride Buddies
+
+![ci-badge](https://github.com/warrior-ride-buddies/warrior-ride-buddies/workflows/ci-warrior-ride-buddies/badge.svg)
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -11,8 +14,6 @@ The goal of Warrior Ride Buddies is to connect UH Manoa students with similar co
 This application will help students save money on gas and parking.
 
 Here is the link to our [organization](https://github.com/warrior-ride-buddies) and the [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr_WfwH-5iD-kGBiF5fv1-mwz5sEc/edit?usp=sharing) we created at the beginning of this project.
-
-![ci-badge](https://github.com/warrior-ride-buddies/warrior-ride-buddies/workflows/ci-warrior-ride-buddies/badge.svg)
 
 ## User Guide
 - Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
