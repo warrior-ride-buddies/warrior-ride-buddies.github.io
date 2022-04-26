@@ -28,14 +28,34 @@ Here is the link to our [organization](https://github.com/warrior-ride-buddies) 
 Here is our [deployed app](http://188.166.83.198/#/).
 
 ### Screenshots of Mockups
-<img src="images/LandingPage.png">
-<img src="images/HomePage.png">
-<img src="images/ProfilePage.png">
-<img src="images/EditProfilePage.png">
-<img src="images/InboxPage.png">
-<img src="images/Messages.png">
-<img src="images/ViewProfilesPage.png">
-<img src="images/AdminPage.png">
+<p>
+<img src="images/LandingPage.png"></img>
+On the landing page, the user can gain more insight about how the application works.
+</p>
+
+<p><img src="images/HomePage.png">
+Using the filters on the left, users can search for other users (driver/riders) that are suitable for their schedule. Specifically, users can filter by time, day of the week, and driver/rider. Additionally, they can clear the filter by clicking on the bottom right erase icon.</p>
+
+<p><img src="images/MapPin.png">
+Clicking on users will reveal a modal that gives more information about the user. Eventually, users will be able to click on a button to message this user to carpool.</p>
+
+<p><img src="images/InboxPage.png">
+Once riders or drivers discover people that they can carpool with, they can message people through the application. This page keeps track of users this user has messaged. </p>
+
+<p><img src="images/Messages.png">
+After clicking on a user on the inbox page, past messages are displayed on a modal.</p>
+
+<p><img src="images/ProfilePage.png">
+Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule)</p>
+
+<p><img src="images/EditProfilePage.png">
+If needed, users can edit information about themselves through this form.</p>
+
+<p><img src="images/ViewProfilesPage.png">
+This page allows users to view all of the profiles available in the application.</p>
+
+<p><img src="images/AdminPage.png">
+If anyone is reported, the report is displayed here for admin users to review and take action.</p>
 
 ## Development History
 ### Milestone #1:
@@ -49,13 +69,15 @@ For this milestone, our teammates dedicated around a week and half. In this time
 
 ### Milestone #2:
 [M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/2)
+
 For this milestone, our teammates dedicated around a week and half. In this time we:
-* Allowed users to create accounts that are usable in the application
+* Allowed users to create and edit accounts that are usable in the application
   * Location and time per day can be specified per person
   * Car information can be recorded
-* Users can filter pins on the main page to find riders or drivers suitable for their schedule
+* Allowed users to filter pins on the main page to find riders or drivers suitable for their schedule
+* Gave users the ability to message other users through the application
 
-### Milestone #2:
+### Milestone #3:
 [M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
 ## Contact Us
