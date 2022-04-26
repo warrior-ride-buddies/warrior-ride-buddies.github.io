@@ -80,6 +80,24 @@ For this milestone, our teammates dedicated around a week and half. In this time
 ### Milestone #3:
 [M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
+### Developer Guide
+This section provides information of interest to Meteor developers wishing to use this code base to expand upon.
+
+#### Installation
+First, install Meteor.
+
+Second, visit the this application's github page, and click the “Code” button to create a local copy. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the warrior-ride-buddies/app directory and install libraries with:
+
+`$ meteor npm install`
+
+Fourth, run the system with:
+
+`$ meteor npm run start`
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
 * [Kobey Arai](https://kobeyarai808.github.io/)
