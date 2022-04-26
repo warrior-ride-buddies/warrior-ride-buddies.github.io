@@ -25,7 +25,7 @@ Here is the link to our [organization](https://github.com/warrior-ride-buddies) 
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
 ### Deployment
-Here is our [deployed app](http://188.166.83.198/#/).
+Here is our [deployed app](https://warriorridebuddies.ddns.net/).
 
 ### Screenshots of Mockups
 <p>
