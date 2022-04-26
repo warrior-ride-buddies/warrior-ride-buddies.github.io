@@ -29,7 +29,7 @@ Here is our [deployed app](http://188.166.83.198/#/).
 
 ### Screenshots of Mockups
 <p>
-<img src="images/LandingPage.png"></img>
+<img src="images/LandingPage.png">
 On the landing page, the user can gain more insight about how the application works.
 </p>
 
