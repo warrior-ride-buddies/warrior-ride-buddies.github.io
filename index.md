@@ -33,7 +33,8 @@ Here is our [deployed app](http://188.166.83.198/#/).
 <img src="images/ProfilePage.png">
 <img src="images/EditProfilePage.png">
 <img src="images/InboxPage.png">
-<img src="images/MessagesPage.png">
+<img src="images/Messages.png">
+<img src="images/ViewProfilesPage.png">
 <img src="images/AdminPage.png">
 
 ## Development History
@@ -48,6 +49,14 @@ For this milestone, our teammates dedicated around a week and half. In this time
 
 ### Milestone #2:
 [M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/2)
+For this milestone, our teammates dedicated around a week and half. In this time we:
+* Allowed users to create accounts that are usable in the application
+  * Location and time per day can be specified per person
+  * Car information can be recorded
+* Users can filter pins on the main page to find riders or drivers suitable for their schedule
+
+### Milestone #2:
+[M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
