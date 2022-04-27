@@ -48,7 +48,7 @@ Once riders or drivers discover people that they can carpool with, they can mess
 After clicking on a user on the inbox page, past messages are displayed on a modal.</p>
 
 <p><img src="images/ProfilePage.png">
-Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule)</p>
+Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule). To access it, users need to navigate to the right of the navbar and click their profile picture or email to open a dropdown and then click "view profile".</p>
 
 <p><img src="images/RegisterPage.png">
 This page allows new users to create an account for this application.</p>
@@ -57,7 +57,7 @@ This page allows new users to create an account for this application.</p>
 Upon registering, the user will complete this form to fully setup their account. Specifically, users need to enter relevant, personal information about themselves such as their name and address.</p>
 
 <p><img src="images/EditProfilePage.png">
-If needed, users can edit information about themselves through this form.</p>
+If needed, users can edit information about themselves through this form. To access this form, users need to navigate to the right of the navbar and click their profile picture or email to open a dropdown and then click "edit profile".</p>
 
 <p><img src="images/ViewProfilesPage.png">
 This page allows users to view all of the profiles available in the application.</p>
