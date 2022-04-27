@@ -6,6 +6,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
