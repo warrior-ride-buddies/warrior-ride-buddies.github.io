@@ -8,6 +8,7 @@
 * [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [Development History](#development-history)
+* [Developer Guide](#developer-guide)
 * [Contact Us](#contact-us)
 
 ## Overview
@@ -49,6 +50,12 @@ After clicking on a user on the inbox page, past messages are displayed on a mod
 <p><img src="images/ProfilePage.png">
 Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule)</p>
 
+<p><img src="images/RegisterPage.png">
+This page allows new users to create an account for this application.</p>
+
+<p><img src="images/CreateProfilePage.png">
+Upon registering, the user will complete this form to fully setup their account. Specifically, users need to enter relevant, personal information about themselves such as their name and address.</p>
+
 <p><img src="images/EditProfilePage.png">
 If needed, users can edit information about themselves through this form.</p>
 
@@ -81,10 +88,10 @@ For this milestone, our teammates dedicated around a week and half. In this time
 ### Milestone #3:
 [M3 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
-### Developer Guide
+## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base to expand upon.
 
-#### Installation
+### Installation
 First, install Meteor.
 
 Second, visit the this application's github page, and click the “Code” button to create a local copy. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
