@@ -79,7 +79,7 @@ For this milestone, our teammates dedicated around a week and half. In this time
 * Gave users the ability to message other users through the application
 
 ### Milestone #3:
-[M2 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
+[M3 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
 ### Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base to expand upon.
