@@ -106,7 +106,7 @@ Fourth, run the system with:
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-## User Interface Qualitty Assurance and Usability Testing 
+## User Interface Quality Assurance and Usability Testing 
 Before conducting the test, please google a location on the island of Oahu and find longitude and latitude coordinates for that location. Provide this information to test subjects before the examination. 
 
 Please take notes on what test subjects struggle to complete on the first attempt. Also, note where they navigated or attempted to do to complete said task. Also, log in as Young-Sung Masuda (admin@foo.com). 
