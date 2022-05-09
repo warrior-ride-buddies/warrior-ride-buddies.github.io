@@ -9,6 +9,7 @@
 * [Deployment](#deployment)
 * [Development History](#development-history)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Contact Us](#contact-us)
 
 ## Overview
@@ -16,6 +17,8 @@ The goal of Warrior Ride Buddies is to connect UH Manoa students with similar co
 This application will help students save money on gas and parking.
 
 Here is the link to our [organization](https://github.com/warrior-ride-buddies) and the [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr_WfwH-5iD-kGBiF5fv1-mwz5sEc/edit?usp=sharing) we created at the beginning of this project.
+
+Here is a link to our project [Warrior-Ride-Buddies](https://warriorridebuddies.ddns.net/#/)
 
 ## User Guide
 - Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
@@ -88,6 +91,17 @@ For this milestone, our teammates dedicated around a week and half. In this time
 ### Milestone #3:
 [M3 project page](https://github.com/warrior-ride-buddies/warrior-ride-buddies/projects/3)
 
+For this milestone, our teammates dedicated around 2 weeks. In this time we:
+* Improved the user's profile functionality by
+  * Implementing a way to upload personal photos
+  * Not requiring the user to input the make of their car
+  * Created a scheduling form
+* Updated the messaging feature to allow for group chatting
+* Implemented the map pins to have functionality.
+* Created the report functionality.
+* Added more automated testing features to make sure our site ran correctly.
+* Got community feedback on our site.
+
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base to expand upon.
 
@@ -126,6 +140,16 @@ Task 6: You have successfully used the application. Please go ahead and log out.
 Ask if the user has any questions, comments, or concerns about the project. 
 
 Thank them for their participation and end test. 
+
+##Community Feedback
+
+After milestone 2 we collected feedback from the community to see what they thought about our site and how we improve user experience. Here's some of the suggestions people had to say about our site:
+* The "Find your buddy" header on the main page looks like a button which is misleading.
+* Have some way to indicate that a new message was sent.
+* Having to input latitude and longitude is unnecessary.
+* edit/remove the footer.
+* Have a way to view the profile of the person you're messaging from the main page instead of having to click around the site.
+* Overall functionality and look was great.
 
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
