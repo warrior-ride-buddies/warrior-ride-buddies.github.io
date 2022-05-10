@@ -21,11 +21,10 @@ Here is the link to our [organization](https://github.com/warrior-ride-buddies) 
 Here is a link to our project [Warrior-Ride-Buddies](https://warriorridebuddies.ddns.net/#/)
 
 ## User Guide
-- Start off by creating your profile including your name, profile photo, UH email address, and neighborhood.
+- Start off by creating your profile including your name, profile photo, UH email address, and address (don't worry, where exactly you are located won't be shared to other users).
 - Categorize yourself as a driver, rider, or both if you’re willing.
 - Drivers must include the following information about their car: year, make/model, and license plate.
-- Riders will have a recommended gas-money contribution for their drivers depending on their distance from campus.
-- Adjust your desired arrival times for each day of the week.
+- Adjust your desired arrival times for each day of the week (aka "trips").
 - Once your profile is completed, it will be visible on the app’s home page, which is a map populated with other commuters shown in their general starting locations. Users can interact with the map by clicking on other’s profiles and filtering them by various categories.
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
@@ -130,7 +129,7 @@ Script:
 Thank you very much for participating in the Warrior Ride Buddies User Interface Quality Assurance and Usability testing. Today you will be testing the Warrior ride buddies application for practicality, ease of use, and user interface design. This means you will be interacting with the application, attempting to complete a set of tasks. Please note that we are testing the application, not the participant. There are no incorrect answers for any portion of this exercise. 
 
 Task 1: Please navigate to the https://warriorridebuddies.ddns.net and create an account, we have provided longitude and latitude. We will be registering as a Rider; doing so also means that car information is not required. Please leave the profile picture as default. <br/>
-Task 2: You will travel to UH Manoa on Tuesdays and need to arrive on campus by 10:30am, add a "trip" to your scheduele to let people know your intentions. <br/>
+Task 2: You will travel to UH Manoa on Tuesdays and need to arrive on campus by 10:30am, add a "trip" to your schedule to let people know your intentions. <br/>
 Task 3: Find a Driver and send them a message asking if they can pick you up, taking you to UH Manoa on Tuesday. You will need to arrive on campus by 10:30 am. <br/>
 (Send a message saying no to the test subject in a rude tone such as "why would I help someone like you?", this will be used for the next task)<br/>
 Task 4: Oh my gosh, Yong-Sung is being so rude! Please report him to an admin and explain why you are reporting him. <br/>
