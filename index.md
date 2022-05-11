@@ -41,16 +41,27 @@ On the landing page, the user can gain more insight about how the application wo
 Using the filters on the left, users can search for other users (driver/riders) that are suitable for their schedule. Specifically, users can filter by time, day of the week, and driver/rider. Additionally, they can clear the filter by clicking on the bottom right erase icon.</p>
 
 <p><img src="images/MapPin.png">
-Clicking on users will reveal a modal that gives more information about the user. Eventually, users will be able to click on a button to message this user to carpool.</p>
+Clicking on users will reveal a modal that gives more information about the user. From here, users can click on the "message" button to message this user to carpool or press the red report button if needed.</p>
+
+<p><img src="images/Report.png">
+If a user is behaving inappropriately on the application, people can report them. Additionally, the reporter can include a message about why this person is being reported for the admin to read. 
+</p>
 
 <p><img src="images/InboxPage.png">
-Once riders or drivers discover people that they can carpool with, they can message people through the application. This page keeps track of users this user has messaged. </p>
+Once riders or drivers discover people that they can carpool with, they can message people through the application. This page keeps track of users this user has messaged. At the top there's a selector and "Create Pool!" button for users to create a conversation with one or more people in the application to arrange a car pool.</p>
 
 <p><img src="images/Messages.png">
-After clicking on a user on the inbox page, past messages are displayed on a modal.</p>
+After clicking on a user on the inbox page, past messages are displayed on a modal. The user can continue the conversation by sending messages through the input area at the bottom.</p>
 
 <p><img src="images/ProfilePage.png">
-Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule). To access it, users need to navigate to the right of the navbar and click their profile picture or email to open a dropdown and then click "view profile".</p>
+Every user has a profile page that contains information about themselves that are pertinent to the application (i.e. Name, location, car information, and up-to-date schedule). To access it, users need to navigate to the right of the navbar and click their profile picture or email to open a dropdown and then click "view profile". The user can edit his/her own schedule (aka trips) directly on this page. </p>
+
+<p><img src="images/Trip.png">
+This page allows new users to create new trips (to or from UHM) in their schedule for other users to see.</p>
+
+<p><img src="images/OtherProfilePage.png">
+When viewing another user's profile, pertinent information is shown (i.e. location, car info, schedule) and a button to message the user.
+</p>
 
 <p><img src="images/RegisterPage.png">
 This page allows new users to create an account for this application.</p>
@@ -65,7 +76,7 @@ If needed, users can edit information about themselves through this form. To acc
 This page allows users to view all of the profiles available in the application.</p>
 
 <p><img src="images/AdminPage.png">
-If anyone is reported, the report is displayed here for admin users to review and take action.</p>
+If anyone is reported, the report is displayed here for admin users to review and take action. Additionally, the admin can view conversations between the reportee and reporter to help reach a decision.</p>
 
 ## Development History
 ### Milestone #1:
@@ -162,7 +173,6 @@ Here is our [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr
 
 ## Future ideas to implement
 * Deal with Unsolicited Interactions (Blocking, etc.)
-* Allow group chats
 * Convert Web app to React Native
 * Provided a recommended tip/gratuity
-* Allow users to go from UH to Home
+* Implement safety features
