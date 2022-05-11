@@ -140,7 +140,7 @@ Ask if the user has any questions, comments, or concerns about the project.
 
 Thank them for their participation and end test. 
 
-##Community Feedback
+## Community Feedback
 
 After milestone 2 we collected feedback from the community to see what they thought about our site and how we improve user experience. Here's some of the suggestions people had to say about our site:
 * The "Find your buddy" header on the main page looks like a button which is misleading.
