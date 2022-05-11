@@ -157,9 +157,13 @@ After milestone 2 we collected feedback from the community to see what they thou
 * The "Find your buddy" header on the main page looks like a button which is misleading.
 * Have some way to indicate that a new message was sent.
 * Having to input latitude and longitude is unnecessary.
-* edit/remove the footer.
+* Edit/remove the footer.
 * Have a way to view the profile of the person you're messaging from the main page instead of having to click around the site.
 * Overall functionality and look was great.
+* Filtering by location would have been nice.
+* Slightly confusing way to work web application for the first time.
+* Reporting a user only goes so far, i.e. if anything happens in person and not through messages, admin will have no proof to act upon.
+* For "add people" search bar, it would be cool to have user's profile show up next to name.
 
 ## Contact Us
 Here are the developers of this application. If you want to get in contact with them, here are their professional portfolios:
