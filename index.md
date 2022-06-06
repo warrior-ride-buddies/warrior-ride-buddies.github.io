@@ -29,7 +29,7 @@ Here is a link to our project [Warrior-Ride-Buddies](https://warriorridebuddies.
 - Coordinate with other users that have similar commutes by clicking their profile and using our in-app messaging system.
 
 ### Deployment
-Here is our [deployed app](https://warriorridebuddies.ddns.net/).
+Here is our [deployed app](https://test.warriorridebuddies.meteorapp.com/#/).
 
 ### Screenshots of Mockups
 <p>
