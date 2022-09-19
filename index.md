@@ -18,7 +18,7 @@ This application will help students save money on gas and parking.
 
 Here is the link to our [organization](https://github.com/warrior-ride-buddies) and the [team contract](https://docs.google.com/document/d/1JwVIlZwdnLveOPWr_WfwH-5iD-kGBiF5fv1-mwz5sEc/edit?usp=sharing) we created at the beginning of this project.
 
-Here is a link to our project [Warrior-Ride-Buddies](https://warriorridebuddies.ddns.net/#/)
+Here is a link to our project [Warrior-Ride-Buddies](https://test.warriorridebuddies.meteorapp.com/#/)
 
 ## User Guide
 - Start off by creating your profile including your name, profile photo, UH email address, and address (don't worry, where exactly you are located won't be shared to other users).
